@@ -1,73 +1,82 @@
 
+<h1 align="center">♟️Chess_Game</h1>
 
+<p align="center">
+  <b>A complete chess game with rules, move validation, and GUI built using Python & Tkinter.</b><br>
+  <sub>Supports castling, promotion, en passant, undo, and more.</sub>
+</p>
 
-# ♟️Chess_Game
-
-A full-featured Chess game built in Python with a Tkinter GUI. Play against yourself with all the core rules of chess implemented, including castling, en passant, and promotion.
+<p align="center">
+  <img src="images/screenshot1.png" width="500" alt="Main Board Screenshot"/>
+</p>
 
 ---
 
-## 🖼️ Preview
+## 🎯 Overview
 
-<p align="center">
-  <img src="images/screenshot1.png" alt="Chess Board Screenshot">
-</p>
-
-<p align="center">
-  <img src="images/screenshot2.png" width="400" alt="Move Highlighting">
-</p>
-
-<p align="center">
-  <img src="images/screenshot3.png" width="400" length="800">
-</p>
+This project is a full-featured chess engine and GUI built with **Python** and **Tkinter**. It is built entirely from scratch without external libraries for logic or rendering. It is ideal for learning GUI design, game logic, and chess rules implementation.
 
 ---
 
 ## 🎮 Features
 
-- ✅ Fully interactive chessboard
-- ✅ Enforces official chess rules:
-  - Castling
-  - En passant
-  - Pawn promotion
-  - Check, checkmate & stalemate detection
-- 🔁 Undo last move
-- ✨ Move highlighting & piece capturing
-- ♟️ Unicode symbols for clean piece rendering
+✅ Classic 8×8 chessboard with Unicode pieces  
+✅ All standard rules of chess enforced:
+- Legal move validation
+- Castling (both sides)
+- En passant
+- Promotion (default to queen)
+- Check & checkmate detection
+
+✅ Interactive GUI with:
+- Highlighted selected pieces and possible moves
+- Undo last move
+- Turn indicators
+- Error prevention (can’t move enemy pieces or make illegal moves)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation
 
-### 📦 Requirements
-
+### Prerequisites
 - Python 3.6+
+- No external libraries needed (uses only built-in `tkinter`)
 
-### 🛠 Installation
-
+### Run the Game
 ```bash
 git clone https://github.com/your-username/tkinter-chess.git
-````
-```bash
 cd tkinter-chess
-````
-```bash
 python chess_game.py
 ````
 
 ---
 
-## 🔍 How It Works
+## 🧩 How It Works
 
-* Pieces are rendered with Unicode chess characters.
-* All logic is handled in the backend, including move legality and board updates.
-* GUI is responsive and designed with classic board aesthetics.
+The project consists of:
+
+* `chess_game.py`: Main script containing all classes for board logic and Tkinter rendering.
+* `Board` class handles:
+
+  * Piece setup
+  * Movement rules
+  * Special chess rules
+* `GUI` layer handles:
+
+  * Drawing the board and pieces
+  * Event bindings
+  * Updating board state after moves
+
+Architecture is modular and easily extensible for future enhancements.
 
 ---
 
+## 🖼 Screenshots
 
-## 🤝 Contributions
+<p float="left">
+  <img src="images/screenshot1.png" width="45%" alt="Chessboard GUI">
+  <img src="images/screenshot2.png" width="45%" alt="Move Highlighting">
+</p>
 
-Pull requests and issues are welcome!
-
+---
 
