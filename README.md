@@ -10,7 +10,7 @@ A full-featured Chess game built in Python with a Tkinter GUI. Play against your
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="images/screenshot1.png" width="400" alt="Chess Board Screenshot">
+  <img src="images/screenshot1.png" alt="Chess Board Screenshot">
 </p>
 
 <p align="center">
