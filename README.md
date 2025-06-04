@@ -57,19 +57,12 @@ python chess_game.py
 
 ---
 
-## 🔧 To Do
-
-* [ ] Save/load game with FEN or PGN
-* [ ] Add AI opponent
-* [ ] Add timer per player
-* [ ] Sound effects
-* [ ] Better pawn promotion UI
-
----
 
 ## 📸 
 
-<img src="images/screenshot3.png" width="400">
+<p align="center">
+  <img src="images/screenshot3.png" width="400">
+</p>
 
 ---
 
