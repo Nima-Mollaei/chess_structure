@@ -74,8 +74,8 @@ Architecture is modular and easily extensible for future enhancements.
 ## 🖼 Screenshots
 
 <p float="left">
-  <img src="images/screenshot1.png" width="45%" alt="Chessboard GUI">
-  <img src="images/screenshot2.png" width="45%" alt="Move Highlighting">
+  <img src="images/screenshot2.png" width="45%" alt="Chessboard GUI">
+  <img src="images/screenshot3.png" width="45%" alt="Move Highlighting">
 </p>
 
 ---
