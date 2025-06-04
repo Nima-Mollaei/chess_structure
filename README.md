@@ -43,7 +43,11 @@ A full-featured Chess game built in Python with a Tkinter GUI. Play against your
 
 ```bash
 git clone https://github.com/your-username/tkinter-chess.git
+````
+```bash
 cd tkinter-chess
+````
+```bash
 python chess_game.py
 ````
 
