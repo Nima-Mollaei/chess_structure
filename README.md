@@ -17,6 +17,10 @@ A full-featured Chess game built in Python with a Tkinter GUI. Play against your
   <img src="images/screenshot2.png" width="400" alt="Move Highlighting">
 </p>
 
+<p align="center">
+  <img src="images/screenshot3.png" width="400" length="800">
+</p>
+
 ---
 
 ## 🎮 Features
@@ -61,14 +65,6 @@ python chess_game.py
 
 ---
 
-
-## 📸 
-
-<p align="center">
-  <img src="images/screenshot3.png" width="400">
-</p>
-
----
 
 ## 🤝 Contributions
 
