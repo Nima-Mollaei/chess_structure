@@ -69,7 +69,7 @@ python chess_game.py
 
 ## 📸 
 
-<img src="images/my_screenshot.png" width="400">
+<img src="images/screenshot3.png" width="400">
 
 ---
 
