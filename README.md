@@ -45,7 +45,7 @@ This project is a full-featured chess engine and GUI built with **Python** and *
 ### Run the Game
 ```bash
 git clone https://github.com/your-username/tkinter-chess.git
-cd tkinter-chess
+cd Chess_Game
 python chess_game.py
 ````
 
