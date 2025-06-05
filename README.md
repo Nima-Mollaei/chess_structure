@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-This project is a full-featured chess engine and GUI built with **Python** and **Tkinter**. It is built entirely from scratch without external libraries for logic or rendering. It is ideal for learning GUI design, game logic, and chess rules implementation.
+This project is a full-featured chess engine and GUI built with **Python** and **Tkinter**. It is built entirely from scratch without external libraries for logic or rendering. It is ideal for learning GUI design, game logic, and chess rules implementation
 
 ---
 
