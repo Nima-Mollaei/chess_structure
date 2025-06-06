@@ -67,7 +67,7 @@ The project consists of:
   * Event bindings
   * Updating board state after moves
 
-Architecture is modular and easily extensible for future enhancements
+Architecture is modular and easily extensible for future enhancements.
 
 ---
 
